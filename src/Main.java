@@ -14,6 +14,7 @@ public class Main {
         } catch (Exception e) {
             // Catch runtime exceptions (e.g., IllegalStateException) and report a short message.
             System.err.println("Error reading input: " + e.getMessage());
+            
         }
     }
 }
