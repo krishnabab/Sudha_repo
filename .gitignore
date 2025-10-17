@@ -1,0 +1,57 @@
+# IntelliJ IDEA
+/.idea/
+/*.iml
+*.iws
+
+# Build output
+/out/
+/target/
+/build/
+/bin/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+
+# Maven
+log/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+*.env
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+
+# Other
+coverage/
+reports/
+node_modules/
+
+# Ignore local run configs
+*.run.xml
+
+# Ignore credential files
+credentials.json
+
+# End of file
+
